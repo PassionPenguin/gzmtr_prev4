@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">广州地铁出站指南</string>
+    <string name="ss_name">请选择你前往的车站或换乘站</string>
+    <string name="btn_ss">出入口指南</string>
+    <string name="back_ss">出入口指南banner</string>
+    <string name="id_ss_name">sstitle</string>
+    <string name="id_ss_back">ssback</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
